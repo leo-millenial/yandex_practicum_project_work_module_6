@@ -2,6 +2,11 @@
 
 Проектная работа модуля 6 курса Yandex Practicum: рефакторинг кода на Rust.
 
+## Ссылки на коммиты
+
+- Исходная версия проекта (без изменений): <https://github.com/leo-millenial/yandex_practicum_project_work_module_6/commit/703fa75>
+- Версия после рефакторинга: <https://github.com/leo-millenial/yandex_practicum_project_work_module_6/commit/890cd93>
+
 ## Что сделано
 
 - Добавлен baseline-коммит с оригинальным проектом из `analysis-project.zip`.
